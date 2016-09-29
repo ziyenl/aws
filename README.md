@@ -8,7 +8,7 @@ Scraping Food Website with S3 | food/scrape.py | extracts images from foodnetwor
 ## Scraping Food Website with S3
 
 To use, just install boto3 and BeautifulSoup on EC2 instance with IAM Role to S3. Subsequently, schedule for scrape.py to run with the specify ingredient. 
-![alt text](https://github.com/ziyenl/aws/blob/master/ingredient.png "Ingredient")
+![alt text](https://github.com/ziyenl/aws/blob/master/food/ingredient.png "Ingredient")
 
 ### Further Suggested Modifications to food/scrape.py
 1. Scrape multiple pages of a given ingredient
