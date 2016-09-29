@@ -3,9 +3,9 @@ AWS Playground Experiment
 
 Project | Files | Description
 ---|--- | ---
-1. | food/scrape.py | extracts images from foodnetwork.co.uk for a given ingredient type and store them in S3 Bucket. This uses BeautifulSoup, boto3 and python. 
+1. Scraping Food Website with S3 | food/scrape.py | extracts images from foodnetwork.co.uk for a given ingredient type and store them in S3 Bucket. This uses BeautifulSoup, boto3 and python. 
 
-## food/scrape.py
+## Scraping Food Website with S3
 
 To use, just install boto3 and BeautifulSoup on EC2 agent. Subsequently, schedule for scrape.py to run with the specify ingredient. 
 
