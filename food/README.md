@@ -4,7 +4,6 @@ To use, just install boto3 and BeautifulSoup on EC2 instance with IAM Role to S3
 ![alt text](https://github.com/ziyenl/aws/blob/master/food/ingredient.png "ingredient keyword")
 
 ## Architecture State
-would be architecture state: if user were to be able to request images by keyword search
 ![alt text](https://github.com/ziyenl/aws/blob/master/food/architecture.png "architecture")
 
 ## Suggested Enhancement
