@@ -12,6 +12,7 @@ To use, just install boto3 and BeautifulSoup on EC2 instance with IAM Role to S3
 3. Setup to run against other websites (not just foodnetwork)
 
 I subsequently would like to have a collection of recipes and possibly store them in Dynamo DB in json format.
+
 Everything conducted here is just an experimentation. All images are not kept for long term storage as to ensue any copyrights issue.
 
 ## Output Result
