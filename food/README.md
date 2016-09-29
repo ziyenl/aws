@@ -3,7 +3,7 @@
 To use, just install boto3 and BeautifulSoup on EC2 instance with IAM Role to S3. Subsequently, schedule for scrape.py to run with the specify ingredient. 
 ![alt text](https://github.com/ziyenl/aws/blob/master/food/ingredient.png "ingredient keyword")
 
-## Architecture
+## Would Be Architecture State ( if user were to be able to request images by keyword search )
 ![alt text](https://github.com/ziyenl/aws/blob/master/food/architecture.png "architecture")
 
 ## Suggested Enhancement
