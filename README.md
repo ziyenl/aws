@@ -1,2 +1,2 @@
-# aws
-aws playground experiment
+# AWS
+AWS Playground Experiment
