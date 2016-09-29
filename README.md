@@ -17,5 +17,5 @@ To use, just install boto3 and BeautifulSoup on EC2 instance with IAM Role to S3
 
 I subsequently would like to have a collection of recipes and possibly store them in Dynamo DB in json format. Everything conducted here is just experimentation. All images are not kept for long term storage as to ensue any copyrights issue.
 
-### Results
+### Output Result
 ![alt text](https://github.com/ziyenl/aws/blob/master/food/result.png "result output")
