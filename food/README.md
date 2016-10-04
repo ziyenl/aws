@@ -3,9 +3,6 @@
 To use, just install boto3 and BeautifulSoup on EC2 instance with IAM Role to S3. Subsequently, schedule for scrape.py to run with the specify ingredient. 
 ![alt text](https://github.com/ziyenl/aws/blob/master/food/ingredient.png "ingredient keyword")
 
-## Architecture State
-![alt text](https://github.com/ziyenl/aws/blob/master/food/architecture.png "architecture")
-
 ## Suggested Enhancement
 1. Scrape multiple pages of a given ingredient
 2. Run a set of ingredients from a static list/possibly in dynamo db
